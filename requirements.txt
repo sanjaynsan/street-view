@@ -1,0 +1,9 @@
+torch
+transformers
+pillow
+pandas
+ipyleaflet
+geopandas
+shapely
+folium
+google-streetview
