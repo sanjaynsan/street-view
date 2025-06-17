@@ -1,7 +1,5 @@
 __pycache__/
-.ipynb_checkpoints/
 .env
-*.log
+.ipynb_checkpoints/
 images/
 data/
-*.DS_Store
